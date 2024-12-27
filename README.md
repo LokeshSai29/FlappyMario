@@ -60,7 +60,9 @@
 
 ## Screenshots
 
-![Flappy Mario Game Screenshot 1](https://github.com/user-attachments/assets/5ae1e307-6f53-4dca-a029-ccc37fd11d6c)
-![Flappy Mario Game Screenshot 2](https://github.com/user-attachments/assets/8c3bcbdd-fe2b-474e-9345-07ef22578e43)
-![Flappy Mario Game Screenshot 3](https://github.com/user-attachments/assets/81a978c3-aefc-4057-a5bb-3d2c25760c54)
+> ![Flappy Mario Game Screenshot 1](https://github.com/user-attachments/assets/5ae1e307-6f53-4dca-a029-ccc37fd11d6c)
+
+> ![Flappy Mario Game Screenshot 2](https://github.com/user-attachments/assets/8c3bcbdd-fe2b-474e-9345-07ef22578e43)
+
+> ![Flappy Mario Game Screenshot 3](https://github.com/user-attachments/assets/81a978c3-aefc-4057-a5bb-3d2c25760c54)
 
